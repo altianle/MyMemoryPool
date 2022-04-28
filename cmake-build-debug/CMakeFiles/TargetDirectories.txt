@@ -1,0 +1,3 @@
+/home/altianle/CLionProjects/My_malloc/cmake-build-debug/CMakeFiles/My_malloc.dir
+/home/altianle/CLionProjects/My_malloc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/altianle/CLionProjects/My_malloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
